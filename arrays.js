@@ -40,6 +40,10 @@ var chocolateBars = [
     return array
   }
   
+<<<<<<< HEAD
   function removeElementFromEndOfArray(array) {
     return array.slice(0, array.length - 1);
   }
+=======
+  function 
+>>>>>>> 7be0da5c51c4cff213886359ee7821268c7513a3
